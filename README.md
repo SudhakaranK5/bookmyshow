@@ -1,2 +1,2 @@
 # bookmyshow
-New Repo
+This is my Book my show project.
