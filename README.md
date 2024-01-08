@@ -1,6 +1,6 @@
 # BookMyShow
 Back-End
-1.JAVA break;
+1.JAVA <br>
 Java is a high-level, object-oriented programming language known for its platform independence and widespread use in developing a wide range of applications, from mobile and web to enterprise systems.
 2.MYSQL
 MySQL is an open-source relational database management system, commonly used for storing and managing data in various applications. It allows users to organize information into tables, making it easy to retrieve and manipulate data.
