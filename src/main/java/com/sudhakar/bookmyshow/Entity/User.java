@@ -21,4 +21,22 @@ public class User {
 
     @Column(name="name")
     private String name;
+
+    @Column(name="fullname")
+    private String fullname;
+
+    @Column(name="email")
+    private String email;
+
+    @Column(name="password")
+    private String password;
+
+
+    @Column(name="location")
+    private String location;
+
+    // @Column(name="time_stamp")
+    // private String time_stamp;
+  
+    
 }
